@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Windows;
-using System.Windows.Input;
-using System.Windows.Controls;
 using System.Net;
 using System.Net.Sockets;
 
@@ -27,7 +23,7 @@ namespace Yumi_Interface
 
         Socket listner;
 
-        // Communication setings
+        // Communication settings
         string ipAddress = "192.168.125.1";
         int port = 55555;
 
@@ -41,7 +37,7 @@ namespace Yumi_Interface
         {
             InitializeComponent();
 
-            //Start background thred for communication with yumi.
+            //Start background thread for communication with yumi.
             backgroundThreadTCP = new Thread(new ThreadStart(this.Connection));
             backgroundThreadTCP.IsBackground = true;
             backgroundThreadTCP.Start();
@@ -50,6 +46,10 @@ namespace Yumi_Interface
 
         }
 
+        
+        /// <summary>
+        /// This function runs only once at the beginning. In the case of broken communication won't be able to re-establish.
+        /// </summary>
         public void Connection()
         {
             listner = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
@@ -59,7 +59,6 @@ namespace Yumi_Interface
             {
                 listner.Connect(ipEndPoint);
                 //MessageBox.Show("Connected");
-
             }
             catch (SocketException ex)
             {
