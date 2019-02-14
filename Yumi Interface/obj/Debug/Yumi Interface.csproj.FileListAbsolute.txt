@@ -1,0 +1,111 @@
+G:\Visual C#\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe.config
+G:\Visual C#\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe
+G:\Visual C#\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.pdb
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csprojAssemblyReference.cache
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.g.cs
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\App.g.cs
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.cache
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.lref
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.baml
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.g.resources
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi_Interface.Properties.Resources.resources
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.GenerateResource.cache
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.CoreCompileInputs.cache
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.exe
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.pdb
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\description.g.cs
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\description.baml
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\counting.g.cs
+G:\Visual C#\Yumi Interface\Yumi Interface\obj\Debug\counting.baml
+E:\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe.config
+E:\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe
+E:\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.pdb
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csprojResolveAssemblyReference.cache
+E:\Yumi Interface\Yumi Interface\obj\Debug\counting.g.cs
+E:\Yumi Interface\Yumi Interface\obj\Debug\description.g.cs
+E:\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.g.cs
+E:\Yumi Interface\Yumi Interface\obj\Debug\App.g.cs
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.cache
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.lref
+E:\Yumi Interface\Yumi Interface\obj\Debug\counting.baml
+E:\Yumi Interface\Yumi Interface\obj\Debug\description.baml
+E:\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.baml
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.g.resources
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi_Interface.Properties.Resources.resources
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.GenerateResource.cache
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.CoreCompileInputs.cache
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.exe
+E:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.pdb
+F:\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe.config
+F:\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe
+F:\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.pdb
+F:\Yumi Interface\Yumi Interface\obj\Debug\counting.g.cs
+F:\Yumi Interface\Yumi Interface\obj\Debug\description.g.cs
+F:\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.g.cs
+F:\Yumi Interface\Yumi Interface\obj\Debug\timing.g.cs
+F:\Yumi Interface\Yumi Interface\obj\Debug\App.g.cs
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.cache
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.lref
+F:\Yumi Interface\Yumi Interface\obj\Debug\counting.baml
+F:\Yumi Interface\Yumi Interface\obj\Debug\description.baml
+F:\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.baml
+F:\Yumi Interface\Yumi Interface\obj\Debug\timing.baml
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.g.resources
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi_Interface.Properties.Resources.resources
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.GenerateResource.cache
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.CoreCompileInputs.cache
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.exe
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.pdb
+F:\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csprojAssemblyReference.cache
+E:\Yumi Interface\Yumi Interface\obj\Debug\timing.g.cs
+E:\Yumi Interface\Yumi Interface\obj\Debug\timing.baml
+C:\DC\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe.config
+C:\DC\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe
+C:\DC\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.pdb
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csprojAssemblyReference.cache
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\counting.g.cs
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\description.g.cs
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.g.cs
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\timing.g.cs
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\App.g.cs
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.cache
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.lref
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\counting.baml
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\description.baml
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.baml
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\timing.baml
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.g.resources
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi_Interface.Properties.Resources.resources
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.GenerateResource.cache
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.CoreCompileInputs.cache
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.exe
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.pdb
+C:\DC\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe.manifest
+C:\DC\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.application
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.exe.manifest
+C:\DC\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.application
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe.config
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe.manifest
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.application
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.exe
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\bin\Debug\Yumi Interface.pdb
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csprojAssemblyReference.cache
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\counting.g.cs
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\description.g.cs
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.g.cs
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\timing.g.cs
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\App.g.cs
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.cache
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface_MarkupCompile.lref
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\counting.baml
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\description.baml
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\MainWindow.baml
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\timing.baml
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.g.resources
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi_Interface.Properties.Resources.resources
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.GenerateResource.cache
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.csproj.CoreCompileInputs.cache
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.exe.manifest
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.application
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.exe
+E:\ymi museum 01 oct\Yumi Interface\Yumi Interface\obj\Debug\Yumi Interface.pdb

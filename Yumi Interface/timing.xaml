@@ -1,0 +1,49 @@
+﻿<Page x:Class="Yumi_Interface.timing"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Yumi_Interface"
+      mc:Ignorable="d" 
+      d:DesignHeight="850" d:DesignWidth="1920"
+      Title="timing">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="0.6*"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="0.4*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="140"/>
+        </Grid.ColumnDefinitions>
+
+
+        <TextBlock Margin="0 0 150 0" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Calibri" FontSize="32pt" FontWeight="Light" Text="Tone sequence" Foreground="White"/>
+
+
+        <TextBlock Grid.Column="1" Grid.Row="2" Text="{Binding ElapsedTime}" FontSize="160pt" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"/>
+
+        <Grid Grid.Row="5" Grid.Column="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"/>
+                <ColumnDefinition Width="320"/>
+                <ColumnDefinition Width="0.5*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Grid.Column="0">
+                <TextBlock Text="To play" Foreground="White" FontSize="20pt" HorizontalAlignment="Right" Margin="0 0 35 0"/>
+                <TextBlock Text="{Binding RemainingTime}" Foreground="White" FontSize="60pt" HorizontalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical"  HorizontalAlignment="Stretch"  Grid.Column="2">
+                <TextBlock Text="Total sequences" Foreground="White" FontSize="20pt" HorizontalAlignment="Right" Margin="0 0 35 0"/>
+                <TextBlock Text="497 001 600" Foreground="White" FontSize="60pt" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
